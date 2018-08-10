@@ -1,0 +1,1 @@
+this is a demo of studying spring config like as spring cloud task.
